@@ -1,5 +1,10 @@
+# temp files created by editors
+*.*~
+*~
+
 # Byte-compiled / optimized / DLL files
 .ipynb_checkpoints/
+.spyderworkspace
 __pycache__/
 *.py[cod]
 
